@@ -19,8 +19,7 @@
     "build": "run-s build_types build_esm"
   },
   "dependencies": {
-    "@react-dnd/invariant": "workspace:^",
-    "dnd-core": "workspace:^"
+    "react-dnd": "^14.0.4"
   },
   "devDependencies": {
     "@swc/cli": "^0.1.57",
